@@ -208,3 +208,5 @@ __marimo__/
 
 *.pyc
 ckpt/
+ckpt_ppo/
+reference/
